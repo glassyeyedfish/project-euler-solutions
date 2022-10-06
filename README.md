@@ -10,6 +10,7 @@ Language | Finished | Run Command |
 C | 3 | `./bin/p1`
 Go | 1 | `./bin/p1`
 Java | 1 | `java bin.P1`
+JavaScript | 1 | `node p1.js`
 Python | 1 | `python3 p1.py`
 Rust | 1 | `./bin/p1`
 Zig | 1 | `./bin/p1`

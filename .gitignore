@@ -1,3 +1,5 @@
+# binary files
 */bin/*
 
+# zig
 zig/src/zig-cache/*
