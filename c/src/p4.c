@@ -53,6 +53,7 @@ main(void) {
         for (i = 100; i <= 999; i++) {
                 for (j = 100; j <= 999; j++) {
                         max_palindrome_number = is_palindrome(i * j) 
+                                && max_palindrome_number < i * j
                                 ? i * j 
                                 : max_palindrome_number;
                 }
