@@ -1,18 +1,14 @@
 #include <stdio.h>
 
-#define bool char
-#define true 1
-#define false 0
-
-bool
+char
 is_prime(long int n) {
         long int i;
         for (i = 2; i <= (n / 2) + 1; i++) {
                 if (n % i == 0) {
-                        return false;
+                        return 0;
                 }
         }
-        return true;
+        return 1;
 }
 
 int 
@@ -22,7 +18,7 @@ main(void) {
 
         long int checking = 2;
 
-        while (true) {
+        while (1) {
                 if (is_prime(checking) && target % checking == 0) {
                         target = target / checking;
                 }
