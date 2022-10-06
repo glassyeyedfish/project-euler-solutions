@@ -7,7 +7,10 @@ written and tested on Linux.
 
 Language | Finished | Run Command | 
 --- | --- | ---
+Brainfuck | 0 | `beef p1.bf`
 C | 3 | `./bin/p1`
+C++ | 1 | `./bin/p1`
+C# | 1 | `mono bin/P1`
 Go | 1 | `./bin/p1`
 Java | 1 | `java bin.P1`
 JavaScript | 1 | `node p1.js`

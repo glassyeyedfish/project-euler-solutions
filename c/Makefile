@@ -7,7 +7,7 @@ bin/:
 		mkdir -p bin
 
 bin/%: src/%.c
-		cc $^ -o $@
+		gcc $^ -o $@
 
 clean:
 	rm -fr bin/
