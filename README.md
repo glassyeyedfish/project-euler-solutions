@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-My solutions to the problems on https://projecteuler.net.
+My solutions to the problems on https://projecteuler.net
 
 Language | Count
 --- | ---
