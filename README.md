@@ -16,4 +16,5 @@ Java | 1 | `java bin.P1`
 JavaScript | 1 | `node p1.js`
 Python | 1 | `python3 p1.py`
 Rust | 1 | `./bin/p1`
+Visual Basic | 1 | `mono bin/P1`
 Zig | 1 | `./bin/p1`
