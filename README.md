@@ -7,7 +7,7 @@ written and tested on Linux.
 
 Language | Finished | Run Command | 
 --- | --- | ---
-Brainfuck | 0 | `beef p1.bf`
+Brainfuck | 1 | `beef p1.bf`
 C | 4 | `./bin/p1`
 C++ | 1 | `./bin/p1`
 C# | 1 | `mono bin/P1`
