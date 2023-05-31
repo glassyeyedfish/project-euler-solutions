@@ -15,7 +15,7 @@ int main() {
 
     for (i = 1; i < 1000; i++) {
         if (is_multiple_of(i, 3) || is_multiple_of(i, 5)) {
-            result = result + i;
+            result += i;
         }
     }
 
