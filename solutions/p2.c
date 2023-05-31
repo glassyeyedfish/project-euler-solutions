@@ -9,6 +9,10 @@ bool is_even(int n) {
     }
 }
 
+/*
+ * The strategy here is simple brute force.
+ */
+
 int main() {
     int result = 0;
 

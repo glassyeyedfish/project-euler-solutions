@@ -8,6 +8,10 @@ bool is_multiple_of(int n, int k) {
     return false;
 }
 
+/*
+ * The strategy here is simple brute force.
+ */
+
 int main() {
     int result = 0;
 
